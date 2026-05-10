@@ -1,7 +1,10 @@
+body { background-color: lightcoral;
+}
+
 body {
    font-family: Arial, sans-serif;
    text-align: center;
-   background-color: #f0f0f0;
+   background-color: #ec9f9f;
 }
 h1 {
    color: #333;
